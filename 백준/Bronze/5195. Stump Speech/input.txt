@@ -1,0 +1,13 @@
+1
+4
+taxes
+-3
+reduce taxes
+5
+education
+3
+slash education
+-5
+if you elect me, i promise to reduce taxes and improve
+education. my opponent, on the other hand, would slash education
+and increase taxes.
